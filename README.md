@@ -8,6 +8,7 @@ Solutions to my LeetCode problems with explanations and code.
 | ------- |
 | [0001-two-sum](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,5 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
