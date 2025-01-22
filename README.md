@@ -13,11 +13,13 @@ Solutions to my LeetCode problems with explanations and code.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +29,7 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +38,7 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,8 +47,13 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
