@@ -15,18 +15,21 @@ Solutions to my LeetCode problems with explanations and code.
 | [0169-majority-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +53,7 @@ Solutions to my LeetCode problems with explanations and code.
 | ------- |
 | [0169-majority-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -58,4 +62,5 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
