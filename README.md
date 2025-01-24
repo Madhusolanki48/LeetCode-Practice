@@ -18,6 +18,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
