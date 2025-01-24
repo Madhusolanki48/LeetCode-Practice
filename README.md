@@ -17,6 +17,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0283-move-zeroes](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,16 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
