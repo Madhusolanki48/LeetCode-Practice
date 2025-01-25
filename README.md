@@ -19,6 +19,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0169-majority-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
