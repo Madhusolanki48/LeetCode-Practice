@@ -20,6 +20,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,4 +93,8 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
