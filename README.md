@@ -21,6 +21,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0485-max-consecutive-ones](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
+| [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Solutions to my LeetCode problems with explanations and code.
 | ------- |
 | [0066-plus-one](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
+| [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
+| [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 ## String
 |  |
 | ------- |
@@ -97,4 +100,8 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
