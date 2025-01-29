@@ -48,11 +48,13 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0397-integer-replacement](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0397-integer-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Solutions to my LeetCode problems with explanations and code.
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
 ## Depth-First Search
@@ -104,4 +107,8 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
