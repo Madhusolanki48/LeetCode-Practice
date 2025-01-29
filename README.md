@@ -21,6 +21,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0485-max-consecutive-ones](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
+| [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0283-move-zeroes](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 ## Counting Sort
 |  |
 | ------- |
