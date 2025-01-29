@@ -10,6 +10,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ Solutions to my LeetCode problems with explanations and code.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
