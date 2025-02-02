@@ -24,6 +24,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
+| [0979-di-string-match](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0979-di-string-match) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 ## Hash Table
@@ -44,6 +45,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0349-intersection-of-two-arrays](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
+| [0979-di-string-match](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0979-di-string-match) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0397-integer-replacement](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
+| [0979-di-string-match](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0979-di-string-match) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Depth-First Search
 |  |
@@ -109,6 +112,7 @@ Solutions to my LeetCode problems with explanations and code.
 | ------- |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
+| [0979-di-string-match](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0979-di-string-match) |
 ## Counting Sort
 |  |
 | ------- |
