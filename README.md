@@ -11,6 +11,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0027-remove-element](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0136-single-number) |
@@ -105,6 +106,7 @@ Solutions to my LeetCode problems with explanations and code.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
 | [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 ## String
@@ -125,4 +127,8 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0397-integer-replacement) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
