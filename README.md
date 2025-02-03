@@ -26,6 +26,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0979-di-string-match) |
+| [1677-matrix-diagonal-sum](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/1677-matrix-diagonal-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 ## Hash Table
@@ -108,6 +109,7 @@ Solutions to my LeetCode problems with explanations and code.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
+| [1677-matrix-diagonal-sum](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/1677-matrix-diagonal-sum) |
 | [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 ## String
 |  |
