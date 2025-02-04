@@ -25,6 +25,7 @@ Solutions to my LeetCode problems with explanations and code.
 | [0500-keyboard-row](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0841-shortest-distance-to-a-character) |
+| [0898-transpose-matrix](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 | [0979-di-string-match](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0979-di-string-match) |
 | [1677-matrix-diagonal-sum](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/1677-matrix-diagonal-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -109,6 +110,7 @@ Solutions to my LeetCode problems with explanations and code.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0463-island-perimeter) |
+| [0898-transpose-matrix](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/1677-matrix-diagonal-sum) |
 | [2722-prime-in-diagonal](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/2722-prime-in-diagonal) |
 ## String
@@ -133,4 +135,5 @@ Solutions to my LeetCode problems with explanations and code.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/Madhusolanki48/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
